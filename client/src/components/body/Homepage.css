@@ -1,0 +1,30 @@
+.home_page {
+  min-height: calc(100vh - 100px);
+  padding: 20px;
+  background: rgb(228, 217, 217);
+  color: #333;
+  text-align: center;
+}
+
+.home_page p {
+  color: #777;
+  line-height: 1.5;
+  margin: 10px 0;
+  font-style: italic;
+}
+
+.home_page a {
+  color: white;
+  background: red;
+  padding: 15px 40px;
+  display: inline-block;
+  border-radius: 3px;
+  margin: 10px 0;
+  letter-spacing: 1.2px;
+  margin: 20px;
+  cursor: pointer;
+}
+.homepage_link {
+  flex-direction: column;
+  margin: 20px;
+}
